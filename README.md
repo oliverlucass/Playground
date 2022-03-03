@@ -1,2 +1,2 @@
-# Playground
-The Playground is a place for pretty simple projects to have a repository.
+# Playground 🎢
+The Playground is a place for projects pretty simple to have a repository.
